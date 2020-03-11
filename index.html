@@ -1,86 +1,33 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-  <head>
-    <meta name="generator" content=
-    "HTML Tidy for Windows (vers 14 February 2006), see www.w3.org" />
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="description" content="Your description goes here" />
-    <meta name="keywords" content="your,keywords,goes,here" />
-    <meta name="author" content="Your Name" />
-    <link rel="stylesheet" type="text/css" href="basic-businesscard.css" media=
-    "all" />
-    <title>
-      zekzekus
-    </title>
-  </head>
-  <body>
-    <div id="wrap">
-      <div id="content">
-        <h1>
-          <a href="index.html">zekzekus</a>
-        </h1>
-        <h2 class="tagline">
-          info card
-        </h2>
-        <dl>
-          <dt>
-            Name:
-          </dt>
-          <dd>
-            Zekeriya Koc
-          </dd>
-          <dt>
-            Title:
-          </dt>
-          <dd>
-            Experienced Software Developer
-          </dd>
-          <dt>
-            E-mail:
-          </dt>
-          <dd>
-            zekzekus (.at.) gmail (.dot.) com
-          </dd>
-        </dl>
-       <p>
-          <em>"First time i saw the possibilities of computer programming at high
-		       school, i have suddenly understood that this will be a very important
-			   part of my life. Since 2000, i wrote a lot of code with various
-			   programming languages."</em>
-        </p>
-      </div>
-    </div>
-    <div id="triples">
-      <div class="t1">
-        <h2>
-          Blog
-        </h2>
-        <p>
-          <a href="http://zekzekus.tumblr.com/">my tumblr blog</a>
-        </p>
-      </div>
-      <div class="t2">
-        <h2>
-          Projects
-        </h2>
-        <p>
-          <a href="http://github.com/zekzekus">my github account</a>
-        </p>
-      </div>
-      <div class="t3">
-        <h2>
-          More information
-        </h2>
-        <p>
-          <a href="http://www.linkedin.com/in/zekus">LinkedIn Profile</a>        </p>
-      </div>
-    </div>
-    <div id="footer">
-      <p>
-        <a href="#">really nice design Andreas, thank you!!</a> | Template design by <a href=
-        "http://andreasviklund.com/">Andreas Viklund</a>
-      </p>
-    </div>
-  </body>
-</html>
+---
+layout: default
+title: Home
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+
+    {{ post.content }}
+  </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
