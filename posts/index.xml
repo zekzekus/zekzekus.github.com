@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Zekeriya Koç</title>
+    <link>https://www.zeko.dev/posts/</link>
+    <description>Recent content in Posts on Zekeriya Koç</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020 Zekeriya Koç</copyright>
+    <lastBuildDate>Mon, 16 Mar 2020 01:10:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://www.zeko.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FP Istanbul 001 ve Sonrası (biraz da öncesi)</title>
+      <link>https://www.zeko.dev/posts/fp-001/</link>
+      <pubDate>Mon, 16 Mar 2020 01:10:00 +0300</pubDate>
+      
+      <guid>https://www.zeko.dev/posts/fp-001/</guid>
+      <description>5 Mart. Perşembe. Yorucu bir haftanın tepe noktasını yeni aşmış, artık yokuş aşağı, kütle çekiminin de desteğiyle akıp, döngüyü nihayetine erdirmek yerine, muhteşem bir boğaz manzarasına kafamı kaldırmış, yağmura dönmek üzere olan kasvetli havaya bakarken, ilk kez organizasyonunun bu kadar içinde olduğum bir etkinliğe kaç kişinin geleceğini kestirmeye çalışıyorum.
+İtiraf etmek gerek. Etkinliğe olan yoğun ilgiye biraz hazırlıksız yakalandık. Koltuk sınırını sonradan koyduğumuz için, ofisimize gelenlerin de gördüğü gibi, 120 kişilik bir kapasitemiz yoktu ve içimizde, “ya çok az insan gelirse” ile “ya çok çok insan gelirse” arasında salınan garip bir endişe vardı.</description>
+    </item>
+    
+  </channel>
+</rss>
