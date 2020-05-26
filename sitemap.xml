@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zeko.dev/</loc>
-    <lastmod>2020-05-26T19:43:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zeko.dev/posts/</loc>
-    <lastmod>2020-05-26T19:43:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zeko.dev/posts/temp/</loc>
-    <lastmod>2020-05-26T19:43:00+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zeko.dev/categories/</loc>
     <lastmod>2020-03-16T01:10:00+03:00</lastmod>
   </url>
@@ -34,6 +19,16 @@
   
   <url>
     <loc>https://zeko.dev/tags/fpistanbul/</loc>
+    <lastmod>2020-03-16T01:10:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zeko.dev/</loc>
+    <lastmod>2020-03-16T01:10:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zeko.dev/posts/</loc>
     <lastmod>2020-03-16T01:10:00+03:00</lastmod>
   </url>
   

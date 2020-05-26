@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Zekeriya Koç</copyright>
-    <lastBuildDate>Tue, 26 May 2020 19:43:00 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2020 01:10:00 +0300</lastBuildDate>
     
 	<atom:link href="https://zeko.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Temporary Post</title>
-      <link>https://zeko.dev/posts/temp/</link>
-      <pubDate>Tue, 26 May 2020 19:43:00 +0300</pubDate>
-      
-      <guid>https://zeko.dev/posts/temp/</guid>
-      <description>This is a temporary post i have. #+STARTUP: showall indent</description>
-    </item>
     
     <item>
       <title>FP Istanbul 001 ve Sonrası (biraz da öncesi)</title>
