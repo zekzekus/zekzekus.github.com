@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Zekeriya Koç</copyright>
-    <lastBuildDate>Mon, 16 Mar 2020 01:10:00 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2020 21:54:00 +0300</lastBuildDate>
     
 	<atom:link href="https://zeko.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Koşmasaydım yazamazdım</title>
+      <link>https://zeko.dev/posts/kosmasaydim-yazamazdim/</link>
+      <pubDate>Sun, 26 Jul 2020 21:54:00 +0300</pubDate>
+      
+      <guid>https://zeko.dev/posts/kosmasaydim-yazamazdim/</guid>
+      <description>Bugün (25 Temmuz 2020). Sabah saat 09:06 ile 09:36 arasında geçen 30 dakika boyunca koştum. Ve şu anda, bugün (yine 25 Temmuz 2020, ilginç&amp;hellip;), saat 22:30 civarı ve bu satırları karalıyorum. Hayır, karalamıyorum. Bir bilgisayarın tuşlarına minik darbeler indiriyorum. İşin bu kısmı çok da mühim değil muhtemelen.
+Koşmasaydım eğer, bu satırları da çok büyük ihtimalle yazmıyor olacaktım. Bu arada, modern dünya edebiyatını takip edenler başlıktaki intihali farketmişlerdir. Hemen yargılamayın, Haruki Murakami anlayışla karşılayacaktır beni.</description>
+    </item>
     
     <item>
       <title>FP Istanbul 001 ve Sonrası (biraz da öncesi)</title>
