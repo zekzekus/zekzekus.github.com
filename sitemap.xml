@@ -1,69 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://zeko.dev/categories/</loc>
     <lastmod>2020-08-28T11:56:00+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zeko.dev/</loc>
     <lastmod>2020-08-28T11:56:00+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zeko.dev/posts/kostugum-halde-yapamadim/</loc>
     <lastmod>2020-08-28T11:56:00+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zeko.dev/categories/personal/</loc>
     <lastmod>2020-08-28T11:56:00+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zeko.dev/posts/</loc>
     <lastmod>2020-08-28T11:56:00+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zeko.dev/posts/kosmasaydim-yazamazdim/</loc>
     <lastmod>2020-07-26T21:54:00+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zeko.dev/tags/running/</loc>
     <lastmod>2020-07-26T21:54:00+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zeko.dev/tags/</loc>
     <lastmod>2020-07-26T21:54:00+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zeko.dev/tags/writing/</loc>
     <lastmod>2020-07-26T21:54:00+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zeko.dev/categories/events/</loc>
     <lastmod>2020-03-16T01:10:00+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zeko.dev/posts/fp-001/</loc>
     <lastmod>2020-03-16T01:10:00+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zeko.dev/tags/fpistanbul/</loc>
     <lastmod>2020-03-16T01:10:00+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zeko.dev/about/</loc>
   </url>
-  
 </urlset>

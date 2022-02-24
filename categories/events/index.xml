@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Zekeriya Koç</copyright>
-    <lastBuildDate>Mon, 16 Mar 2020 01:10:00 +0300</lastBuildDate>
-    
-	<atom:link href="https://zeko.dev/categories/events/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 16 Mar 2020 01:10:00 +0300</lastBuildDate><atom:link href="https://zeko.dev/categories/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FP Istanbul 001 ve Sonrası (biraz da öncesi)</title>
       <link>https://zeko.dev/posts/fp-001/</link>

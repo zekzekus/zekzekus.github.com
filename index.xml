@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Zekeriya Koç</copyright>
-    <lastBuildDate>Fri, 28 Aug 2020 11:56:00 +0300</lastBuildDate>
-    
-	<atom:link href="https://zeko.dev/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 28 Aug 2020 11:56:00 +0300</lastBuildDate><atom:link href="https://zeko.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Koştuğum Halde Yapamadım</title>
       <link>https://zeko.dev/posts/kostugum-halde-yapamadim/</link>
@@ -49,7 +45,7 @@ Koşmasaydım eğer, bu satırları da çok büyük ihtimalle yazmıyor olacakt�
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zeko.dev/about/</guid>
-      <description>About me</description>
+      <description>About me.</description>
     </item>
     
   </channel>
